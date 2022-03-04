@@ -50,7 +50,7 @@ app.post("/add", (req, res) => {
   res.send(db.get("users").value());
 });
 
-app.listen(4000, () => {
-  console.log("Listening on port 4000");
+app.listen(3000, () => {
+  console.log("Listening on port 3000");
 });
 
