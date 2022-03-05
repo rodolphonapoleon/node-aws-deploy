@@ -142,6 +142,97 @@
       "latitude": "-59.0082",
       "longitude": "45.7698",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosgavina/128.jpg"
+    },
+    {
+      "name": "Jacquelyn Schoen",
+      "dob": "1965-12-20",
+      "email": "Jacquelyn_Schoen14@yahoo.com",
+      "username": "Jacquelyn_Schoen",
+      "password": "lw2czvsbz7GVCbT",
+      "phone": "1-772-388-3817",
+      "streetaddress": "9964 Ledner Garden",
+      "citystatezip": "Hollyton, WI 76047",
+      "latitude": "-41.9510",
+      "longitude": "43.1883",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/skkirilov/128.jpg"
+    },
+    {
+      "name": "Dr. Eudora Schulist",
+      "dob": "1955-8-21",
+      "email": "Eudora.Schulist98@hotmail.com",
+      "username": "Eudora94",
+      "password": "8SyYYy0YOYCAaDW",
+      "phone": "1-401-632-8202",
+      "streetaddress": "932 Mariane Rue",
+      "citystatezip": "Murphymouth, SC 38871",
+      "latitude": "37.7656",
+      "longitude": "-114.5456",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg"
+    },
+    {
+      "name": "Rodolpho Napoleon",
+      "dob": "1987-08-05",
+      "email": "rodolphonapoleon@gmail.com",
+      "username": "Rodolpho.Napoleon",
+      "password": "afVCwmamQAeDMmx",
+      "phone": "1-786-873-5954",
+      "streetaddress": "306 Talbot Ave",
+      "citystatezip": "Boston, MA 02124",
+      "latitude": "-59.0082",
+      "longitude": "45.7698",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosgavina/128.jpg"
+    },
+    {
+      "name": "Nona O'Kon",
+      "dob": "1945-2-28",
+      "email": "Nona.OKon@gmail.com",
+      "username": "Nona_OKon",
+      "password": "yXfp7RGpmffcJAD",
+      "phone": "(639) 392-0839 x58718",
+      "streetaddress": "887 Rickie Divide",
+      "citystatezip": "Alejandraberg, NM 43137",
+      "latitude": "-56.8581",
+      "longitude": "111.8559",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/elliotlewis/128.jpg"
+    },
+    {
+      "name": "Matteo Farrell",
+      "dob": "1986-2-13",
+      "email": "Matteo_Farrell5@hotmail.com",
+      "username": "Matteo_Farrell",
+      "password": "6YZToBGfTPIzUSZ",
+      "phone": "1-879-860-3296 x1317",
+      "streetaddress": "979 Graham Inlet",
+      "citystatezip": "South Zolaville, AR 17532-9810",
+      "latitude": "85.1328",
+      "longitude": "44.8105",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ponchomendivil/128.jpg"
+    },
+    {
+      "name": "Hadley Schowalter",
+      "dob": "1949-8-22",
+      "email": "Hadley12@hotmail.com",
+      "username": "Hadley45",
+      "password": "UJoOralZQqJ467l",
+      "phone": "396-610-6782",
+      "streetaddress": "59225 Nora Plain",
+      "citystatezip": "Wintheiserstad, CA 83213-8356",
+      "latitude": "23.9116",
+      "longitude": "-133.1562",
+      "avatar": "http://placeimg.com/640/480/people"
+    },
+    {
+      "name": "Mr. Gideon Cassin",
+      "dob": "1963-2-11",
+      "email": "Gideon61@hotmail.com",
+      "username": "Gideon_Cassin",
+      "password": "wT6QtjfRpfmJHeo",
+      "phone": "331.448.0272 x434",
+      "streetaddress": "39021 Mosciski Vista",
+      "citystatezip": "Jaydaland, MD 24806",
+      "latitude": "-53.2479",
+      "longitude": "-126.6155",
+      "avatar": "http://placeimg.com/640/480/people"
     }
   ]
 }
